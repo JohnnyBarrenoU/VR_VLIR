@@ -367,6 +367,26 @@ git push -u origin desarrollo
 
 ---
 
+# 🎥 Videos y demostraciones
+
+Aquí puedes encontrar demostraciones del proyecto **VR_VLIR** funcionando en realidad virtual.
+
+### 🥽 Demostración principal
+
+[![Ver demostración principal](https://img.youtube.com/vi/HkWLY6dh6Aw/maxresdefault.jpg)](https://youtu.be/HkWLY6dh6Aw)
+
+**▶️ [Ver demostración principal en YouTube](https://youtu.be/HkWLY6dh6Aw)**
+
+---
+
+### 🎮 Demostración adicional
+
+[![Ver demostración adicional](https://img.youtube.com/vi/7X6FHAUy5-g/maxresdefault.jpg)](https://youtu.be/7X6FHAUy5-g)
+
+**▶️ [Ver demostración adicional en YouTube](https://youtu.be/7X6FHAUy5-g)**
+
+---
+
 # ⚠️ Problemas comunes
 
 ## Unreal indica que falta Meta XR
