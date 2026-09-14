@@ -73,6 +73,10 @@
 		{
 			"Name": "UVRFOculus",
 			"Enabled": false
+		},
+		{
+			"Name": "OpenXR",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
